@@ -1,0 +1,1 @@
+ip ad add 10.0.0.20/24 dev enp2s0
