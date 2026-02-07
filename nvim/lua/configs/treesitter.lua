@@ -1,0 +1,6 @@
+
+return {
+  highlight = {
+    enable = true,
+  },
+}
