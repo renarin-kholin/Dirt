@@ -7,3 +7,4 @@ require("conform").setup {
     lsp_format = "fallback",
   },
 }
+vim.cmd "packadd nvim.undotree"

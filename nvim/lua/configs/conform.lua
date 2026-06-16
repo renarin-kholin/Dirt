@@ -9,6 +9,8 @@ local options = {
     go = { "gofmt" },
     rust = { "rustfmt" },
     astro = { "prettier" },
+    python = { "ruff" },
+    java = { "google-java-format" },
   },
 
   -- format_on_save = {
